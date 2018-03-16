@@ -12,7 +12,7 @@ O projeto consiste em um alarme para incêndio que irá piscar um led e soar um 
 |    Botão      | Buzzer |
 
 ### Diagrama
-![diagrama](imgs/diagramaDetalhado.png)
+![diagrama](imgs/diagramaDetalhado.jpg)
 
 
 Sensor de chama
